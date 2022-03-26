@@ -1,4 +1,3 @@
-# HackerRank-Algorithms-warmup-A_Very_Big_Sum
 # This questionis for actual solution
 
    In this challenge, you are required to calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
@@ -41,3 +40,9 @@ Output:
 # ** is a power operator in python
 Note:
   The range of the 32-bit integer is  -2 ** 31 to 2 ** 31.
+
+
+# HackerRank-Algorithms-warmup-A_Very_Big_Sum
+   Short and simple.. try it in Visual Studio Code
+   
+   Not that much changes, just removed unwanted imports.
