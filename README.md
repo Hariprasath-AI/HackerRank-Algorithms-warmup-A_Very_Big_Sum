@@ -24,7 +24,7 @@ Output Format
   
   
 Constraints:
-  1 <= a <= 10
+  1 <= a <= 10,
   0 <= ar[i] <= 10 ** 10 
   
 
